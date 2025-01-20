@@ -1,0 +1,2 @@
+dailyjob.sh linguist-language=Shell eol=lf
+dailyjob.sh -exec
