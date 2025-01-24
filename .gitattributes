@@ -1,2 +1,0 @@
-*.sh linguist-language=Shell eol=lf
-*.sh -exec
