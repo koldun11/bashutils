@@ -1,2 +1,2 @@
-dailyjob.sh linguist-language=Shell eol=lf
-dailyjob.sh -exec
+*.sh linguist-language=Shell eol=lf
+*.sh -exec
